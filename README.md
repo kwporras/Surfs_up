@@ -21,17 +21,17 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 - Number of temperture recordings 1700 and 1517
 - The average temp in june is 85 and dec is 83
 
+
+
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
 
 ## Summary:
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
-
-
-
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
+![alt_text](https://github.com/kwporras/Surfs_up/blob/d54ec66ef686564aa3be5ca9efe6e4c79bc673a4/Resources/histogram_tobs.PNG)
+![alt_text](https://github.com/kwporras/Surfs_up/blob/d54ec66ef686564aa3be5ca9efe6e4c79bc673a4/Resources/bar_chart_precipitation.PNG)
 ##### Resources
 - Data Source: hawaii.splite 
 - Software: Python 3.7.10, Andaconda 4.10.3, VS Code
