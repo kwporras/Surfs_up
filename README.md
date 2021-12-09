@@ -1,6 +1,5 @@
 # Surfs_up
 
-
 ## Overview of the statistical analysis:
 Explain the purpose of this analysis.
 
@@ -16,9 +15,11 @@ The purpose of the analysis is well defined. (3 pt)
 
 ## Results:
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-- 
-- 
-- 
+![alt text](https://github.com/kwporras/Surfs_up/blob/5400650bd7d4693162697c1da066bc4c06879172/Resources/december_summary_statistics.PNG)
+![alt text](https://github.com/kwporras/Surfs_up/blob/5400650bd7d4693162697c1da066bc4c06879172/Resources/june_summary_statistics.PNG)
+- The min temperture between june and december is large,  64 to 56
+- Number of temperture recordings 1700 and 1517
+- The average temp in june is 85 and dec is 83
 
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
