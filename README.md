@@ -2,17 +2,17 @@
 
 ## Overview of the statistical analysis:
 Our goal is to come up with a business plan that will let allow a surf n’ Shake shop serving surfboards and ice cream to locals and tourists.
-In order to secure an investor we'll analyze weather datasets from the island between the months of June and December in Oahu. 
-We want to see if the temperature data is favoriable to substain the business year-round.
+In order to secure an investor, we'll analyze weather datasets from the island between the months of June and December in Oahu. 
+We want to see if the temperature data is favorable to sustain the business year-round.
 
 
 ## Results:
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 ![alt text](https://github.com/kwporras/Surfs_up/blob/5400650bd7d4693162697c1da066bc4c06879172/Resources/december_summary_statistics.PNG)
 ![alt text](https://github.com/kwporras/Surfs_up/blob/5400650bd7d4693162697c1da066bc4c06879172/Resources/june_summary_statistics.PNG)
-- The min temperture between june and december is large. Junes minimum of 64 and December minimum of 56 suggest there could be days were customers would be less inclinde to visit surf n' shake toward the end of the year.
-- The number of temperture recordings June (1,700) and December (1,517) may explain the difference in analysis becuase of the lack of data in december.
-- The average temperature in June (85) and December (83) suggests that while there is a difference in lows and temperture recordings, overall the temperature should support the needs for the surf n' shake shop.
+- The min temperature between June and December is large. June’s minimum of 64 and December minimum of 56 suggest there could be days where customers would be less inclined to visit surf n' shake toward the end of the year.
+- The number of temperature recordings June (1,700) and December (1,517) may explain the difference in analysis because of the lack of data in December.
+- The average temperature in June (85) and December (83) suggests that while there is a difference in lows and temperature recordings, overall, the temperature should support the needs for the surf n' shake shop.
 
 
 ## Summary:
