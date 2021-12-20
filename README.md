@@ -19,9 +19,9 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 High-level summary of the results and two additional queries to gather more weather data for June and December.
 
 ![alt_text](https://github.com/kwporras/Surfs_up/blob/d54ec66ef686564aa3be5ca9efe6e4c79bc673a4/Resources/histogram_tobs.PNG)
-![alt_text]
+![alt_text](https://github.com/kwporras/Surfs_up/blob/a81841e3a811a5b8ba06e95214b73b321eeec7a1/Resources/bar_chart_precipitation_query_1.PNG)
 ![alt_text](https://github.com/kwporras/Surfs_up/blob/d54ec66ef686564aa3be5ca9efe6e4c79bc673a4/Resources/bar_chart_precipitation.PNG)
-![alt_text]
+![alt_text](https://github.com/kwporras/Surfs_up/blob/a81841e3a811a5b8ba06e95214b73b321eeec7a1/Resources/histogramp_tobs_query_2.PNG)
 ##### Resources
 - Data Source: hawaii.splite 
 - Software: Python 3.7.10, Andaconda 4.10.3, VS Code
